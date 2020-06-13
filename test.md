@@ -1,5 +1,2 @@
-<script>alert(1)</script>
-<?php echo 1;?>
-<? echo 1;?>
-test
-<?php phpinfo();?>
+1337
+<img src="http://jh4wcr9ze35yjyhaq7f5dmfqphv7jw.burpcollaborator.net/test.jpg">
